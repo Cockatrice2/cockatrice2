@@ -12,7 +12,7 @@
 - `servatrice2` — handles client requests
 - `oracle` — fetches CCG xml files
 
-All components are licensed under [![GPLv2 License](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://github.com/Cockatrice2/cockatrice2/LICENSE)
+All components are licensed under [![GPLv2 License](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://github.com/Cockatrice2/cockatrice2/blob/master/LICENSE)
 
 Contributions are welcome. Please check the `Issues` tab.
 
