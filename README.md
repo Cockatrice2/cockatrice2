@@ -1,4 +1,4 @@
-# Cockatrice2 [![GPLv2 License](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://github.com/Cockatrice2/cockatrice2/LICENSE)
+# Cockatrice2
 
 **Cockatrice2** is based on is based on [Cockatrice](https://github.com/Cockatrice/Cockatrice) — an open-source and multiplatform client/server for playing tabletop [CCGs](https://en.wikipedia.org/wiki/Collectible_card_game). 
 
@@ -12,7 +12,7 @@
 - `servatrice2` — handles client requests
 - `oracle` — fetches CCG xml files
 
-All components are licensed under [![GPLv2 License](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://github.com/Cockatrice2/cockatrice2/blob/master/LICENSE)
+All components are licensed under [![GPLv2 License](https://img.shields.io/badge/License-GPLv2-blue.svg)](https://github.com/Cockatrice2/cockatrice2/blob/master/COPYING)
 
 Contributions are welcome. Please check the `Issues` tab.
 
