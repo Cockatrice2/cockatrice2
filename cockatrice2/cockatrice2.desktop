@@ -1,0 +1,8 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Cockatrice2
+Exec=cockatrice2
+Icon=cockatrice2
+Categories=Game;CardGame;
