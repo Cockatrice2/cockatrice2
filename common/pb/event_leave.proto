@@ -1,0 +1,8 @@
+syntax = "proto2";
+import "game_event.proto";
+
+message Event_Leave {
+    extend GameEvent {
+        optional Event_Leave ext = 1001;
+    }
+}
